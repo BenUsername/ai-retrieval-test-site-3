@@ -1,0 +1,14 @@
+{
+  "name": "ai-retrieval-test-site-3",
+  "version": "1.0.0",
+  "description": "Website with JavaScript-hidden content to test AI retrieval capabilities",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "Ben Tannenbaum",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
