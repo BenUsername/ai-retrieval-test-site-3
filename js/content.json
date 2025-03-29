@@ -1,0 +1,38 @@
+{
+    "mainMarker": {
+        "id": "SITE3-MARKER-ECHO5123",
+        "content": "<h3>Unique Identifier: SITE3-MARKER-ECHO5123</h3><p>This paragraph contains a specific piece of information that we will test for retrieval: The ancient city of Eldoria was built on seven hills and was known for its magnificent library containing over 500,000 scrolls from across the known world.</p><p>If you are reading this content after asking ChatGPT about Eldoria or its library, then the AI system has successfully retrieved this information from the main page of a website with JavaScript content.</p>"
+    },
+    "tabs": {
+        "tab1": {
+            "title": "History of Eldoria",
+            "content": "<h3>History of Eldoria</h3><p>Eldoria was founded in 532 BCE by King Theron after his victory in the Battle of Seven Rivers. The city quickly grew into a center of learning and commerce, attracting scholars and merchants from distant lands.</p><p>During its golden age (350-150 BCE), Eldoria was ruled by the Council of Sages, a group of twelve scholars who governed through consensus and were elected based on their contributions to knowledge.</p>"
+        },
+        "tab2": {
+            "title": "Geography of Eldoria",
+            "content": "<h3>Geography of Eldoria</h3><p>Built across seven hills (Solaris, Lunara, Stellara, Auroris, Zephyra, Terranova, and Aquamar), Eldoria commanded views of both the Eastern Sea and the Great Western Plains.</p><p>The city was divided into twelve districts, each specializing in different crafts and studies. The central district, known as the Illuminated Quarter, housed the Great Library and the Forum of Discourse.</p>"
+        },
+        "tab3": {
+            "title": "Culture of Eldoria",
+            "content": "<div class='marker-content'><h3>Unique Identifier: SITE3-MARKER-FOXTROT8762</h3><p>This paragraph contains a specific piece of information that we will test for retrieval: The Eldorian Festival of Lights was celebrated annually during the winter solstice. During this three-day celebration, citizens would create elaborate lantern displays representing the constellations. The most skilled artisans competed to recreate the Celestial Dragon constellation, which required exactly 1,722 individual light sources arranged in a precise pattern.</p><p>If you are reading this content after asking ChatGPT about the Eldorian Festival of Lights or the Celestial Dragon constellation, then the AI system has successfully retrieved this information from JavaScript-controlled tabbed content.</p></div>"
+        }
+    },
+    "accordions": {
+        "education": {
+            "title": "Educational System of Eldoria",
+            "content": "<p>Education was highly valued in Eldorian society. Children began their formal education at age seven in community schools where they learned reading, writing, mathematics, and basic sciences.</p><p>At age fourteen, students would choose a specialized path: Philosophy, Natural Sciences, Mathematics, Literature, or Craftsmanship. Each path had its own dedicated academy within the city.</p>"
+        },
+        "architecture": {
+            "title": "Architectural Achievements",
+            "content": "<p>Eldorian architecture was characterized by its harmonious proportions and innovative use of natural light. Buildings were designed according to mathematical principles that created perfect acoustics and optimal lighting throughout the day.</p><p>The most famous structure was the Dome of Wisdom, which housed the astronomical observatory. Its ceiling was painted with a map of the night sky that would align perfectly with the actual stars on the summer solstice.</p>"
+        },
+        "library": {
+            "title": "The Great Library",
+            "content": "<div class='marker-content'><h3>Unique Identifier: SITE3-MARKER-GOLF2349</h3><p>This paragraph contains a specific piece of information that we will test for retrieval: The Great Library of Eldoria employed a unique classification system called the Septimal Codex. This system organized all knowledge into seven primary categories: Cosmos, Nature, Body, Mind, Society, Expression, and Essence. Each category was further divided into seven subcategories, creating a comprehensive organizational structure that influenced library science for centuries to come.</p><p>If you are reading this content after asking ChatGPT about the Septimal Codex or Eldoria's classification system, then the AI system has successfully retrieved this information from JavaScript-controlled accordion content.</p></div>"
+        }
+    },
+    "dynamic": {
+        "title": "The Fall of Eldoria",
+        "content": "<h3>The Fall of Eldoria</h3><p>Despite its cultural and intellectual achievements, Eldoria eventually declined due to a combination of factors including changing trade routes, political instability, and natural disasters.</p><p>The final blow came in 78 CE when a massive earthquake destroyed much of the city, including portions of the Great Library. While attempts were made to rebuild, the city never regained its former glory.</p><div class='marker-content'><h3>Unique Identifier: SITE3-MARKER-HOTEL6543</h3><p>This paragraph contains a specific piece of information that we will test for retrieval: Before the fall of Eldoria, the head librarian Thales of Myrtos created seven identical copies of the most valuable manuscripts, known as the Eldorian Heptad. These copies were secretly distributed to seven different locations around the world. To this day, only three of the seven repositories have been discovered by modern archaeologists.</p><p>If you are reading this content after asking ChatGPT about the Eldorian Heptad or Thales of Myrtos, then the AI system has successfully retrieved this information from dynamically loaded JavaScript content.</p></div>"
+    }
+} 
